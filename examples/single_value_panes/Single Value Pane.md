@@ -2,7 +2,7 @@
 
 This visualization allows you to create a single value with the ability to scroll through multiple lines
 
-![pane image](../images/pane1.png "Pane Visualization")
+![pane image](./pane1.png "Pane Visualization")
 
 **How it works**
 
@@ -17,4 +17,4 @@ Create a look with one measure and one dimension. The sort is important as the t
 
 **More Images**
 
-![pane image](../images/pane2.png "Pane Visualization")
+![pane image](./pane2.png "Pane Visualization")
